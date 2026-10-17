@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/welcome.svg" alt="Selamat datang di orbit Refelz" width="100%" />
+<img src="welcome.svg" alt="Selamat datang di orbit Refelz" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=22D3EE&center=true&vCenter=true&width=620&lines=Mahasiswa+Informatika+%7C+Polinema;Bikin+sistem+yang+kerja+sendiri;Web+%7C+Bot+%7C+IoT+%7C+AI+Agent" alt="typing" />
